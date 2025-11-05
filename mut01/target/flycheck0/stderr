@@ -1,6 +1,1 @@
-   0.008181000s  INFO prepare_target{force=false package_id=mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01) target="mut01"}: cargo::core::compiler::fingerprint: fingerprint dirty for mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01)/Check { test: false }/TargetInner { name: "mut01", doc: true, ..: with_path("C:\\abyrust\\rustmoon\\rustmoon\\mut01\\src\\main.rs", Edition2024) }
-   0.008220300s  INFO prepare_target{force=false package_id=mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01) target="mut01"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-   0.008585500s  INFO prepare_target{force=false package_id=mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01) target="mut01"}: cargo::core::compiler::fingerprint: fingerprint dirty for mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01)/Check { test: true }/TargetInner { name: "mut01", doc: true, ..: with_path("C:\\abyrust\\rustmoon\\rustmoon\\mut01\\src\\main.rs", Edition2024) }
-   0.008601200s  INFO prepare_target{force=false package_id=mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01) target="mut01"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-    Checking mut01 v0.1.0 (C:\abyrust\rustmoon\rustmoon\mut01)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.07s
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
